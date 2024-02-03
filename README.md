@@ -1,4 +1,5 @@
 Project Description: Budget Management Web Application
+
 Overview:
 The Budget Management Web Application is designed to help users track their budget, manage expenses, and maintain financial stability. It provides a user-friendly interface where users can set their budget, add expenses, edit existing expenses, and view their overall financial status.
 
